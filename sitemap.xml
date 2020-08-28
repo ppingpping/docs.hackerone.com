@@ -37,7 +37,6 @@
 <url> <loc>https://docs.hackerone.com/glossary/cvss</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/glossary/cwe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/claiming-reports.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://docs.hackerone.com/hackers/code-of-conduct.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/glossary/common-response</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/common-responses.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/communicating-with-hackers.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -163,6 +162,7 @@
 <url> <loc>https://docs.hackerone.com/changelog/2019/may</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/changelog/2020/may</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/message-hackers.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.hackerone.com/hackers/misconduct.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/notifications.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/manage-notifications.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/changelog/2015/november</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
